@@ -5,3 +5,4 @@ opengrok/docker
 --platform=linux/arm64 eipwork/kuboard:v3.5.2.6-arm64
 --platform=linux/arm64 postgres
 unfoldingword/metrics:latest
+bitnami/kube-state-metrics:latest
