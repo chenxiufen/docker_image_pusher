@@ -2,5 +2,6 @@
 opengrok/docker
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-eipwork/kuboard:v3.5.2.6-arm64
-arm64v8/postgres
+--platform=linux/arm64 eipwork/kuboard:v3.5.2.6-arm64
+--platform=linux/arm64 postgres
+unfoldingword/metrics:latest
