@@ -6,3 +6,4 @@ opengrok/docker
 --platform=linux/arm64 postgres
 unfoldingword/metrics:latest
 bitnami/kube-state-metrics:latest
+gangstead/postgis:13-arm
