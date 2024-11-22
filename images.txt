@@ -7,3 +7,5 @@ opengrok/docker
 unfoldingword/metrics:latest
 bitnami/kube-state-metrics:latest
 gangstead/postgis:13-arm
+insightarm/metrics:640319427-prod-4-0-0-amd64
+insightarm/metrics:803132462-prod-master-arm64v8
