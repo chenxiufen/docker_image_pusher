@@ -11,3 +11,4 @@ insightarm/metrics:640319427-prod-4-0-0-amd64
 insightarm/metrics:803132462-prod-master-arm64v8
 minio/minio
 labring/kubernetes:v1.30.0
+--platform=linux/arm64 minio/minio
