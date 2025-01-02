@@ -13,6 +13,6 @@ minio/minio
 labring/kubernetes:v1.30.0
 --platform=linux/arm64 minio/minio
 labring/kubernetes:v1.29.0
-labring-calico-v3.24.1
-labring-flannel-v0.22.1
-labring-helm-v3.8.2
+labring-calico:v3.24.1
+labring-flannel:v0.22.1
+labring-helm:v3.8.2
