@@ -18,3 +18,4 @@ labring/flannel:v0.22.1
 labring/helm:v3.8.2
 --platform=linux/arm64 labring/kubernetes:v1.29.0
 --platform=linux/arm64 labring/kubernetes:v1.30.0
+--platform=linux/arm64 ubuntu:questing-20250721
